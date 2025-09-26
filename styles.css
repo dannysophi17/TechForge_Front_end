@@ -649,5 +649,8 @@ body::-webkit-scrollbar {
   .contact-info-box a { font-size: .95rem; }
 }
 
+.toast-holder { z-index: 1080; }
+
+
 
 
